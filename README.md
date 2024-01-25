@@ -10,8 +10,7 @@ I,a common student,loves programing and Android reverse.I am good at Python,c++,
 
 ## 联系方式    way to contact me
 官方网站
-- 悠然de网站 [点击进入](http://www.u-ran.top)
-- ~悠然de网站2~ [点击进入](fushengfxw.top)(已倒闭)
+- 已倒闭（之前做成卡网被举报了）
 
 邮箱
 - 仓库问题反馈：2185125049@qq.com
